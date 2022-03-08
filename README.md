@@ -2,9 +2,9 @@
 
 ## Pre requisitos
 
-Intalar ruby com development kit versão 2.4.4
-Intalar o bundler 
-Intalar o RSPEC
+Intalar ruby com development kit versão 2.4.4 <br>
+Intalar o bundler <br>
+Intalar o RSPEC   <br>
 
 ## Gem utilizadas no projeto
 
